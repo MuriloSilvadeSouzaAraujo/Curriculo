@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+
+
+#ContainerBaixo{
+    /*background-color:aqua;*/
+    width: 800px;
+    height: 1800px;
+    margin: auto;
+    flex: right;
+    overflow: hidden;
+    
+   
+
+    
+}
+#SuasSkills{
+    /*background-color: brown;*/
+    width: 810px;
+height: 770px;
+margin: auto;
+padding: 30px 0 0 60px;
+}
+
+
+#FotoContainer{
+    /*background-color: chartreuse;*/
+    width: 150px;
+    height: 130px;
+    float: left;
+    padding: 20px 10px 0 20px;
+    
+}
+#SuasInformações{
+    /*background-color: blue;*/
+    width: 600px;
+    height: 550px;
+    
+    padding: 35px 0 0 25px;
+    margin: auto;
+}
+
+#Continuacao{
+    margin: auto;
+}
