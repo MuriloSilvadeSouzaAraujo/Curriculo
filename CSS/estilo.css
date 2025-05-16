@@ -1,6 +1,8 @@
 @charset "UTF-8";
 
-
+body{
+    background-color: #527ec4;
+}
 
 #ContainerBaixo{
     /*background-color: #445E93;*/
